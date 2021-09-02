@@ -1,0 +1,29 @@
+[
+  {
+    "Newspaper":"USA Today",
+    "Daily Circulation,2004":2192,
+    "Daily Circulation,2013":1674,
+    "Change in Daily Circulation , 2004-2013 ":-24,
+    "Pulitzer Prize and Finalists, 1990-2003":1,
+    "Pulitzer Prize and Finalists, 2004-2013":1,
+    "Pulitzer Prize and Finalists, 1990-2014":1
+  },
+  {
+    "Newspaper":"Turkey Today",
+    "Daily Circulation,2004":2192,
+    "Daily Circulation,2013":1674,
+    "Change in Daily Circulation , 2004-2013 ":-24,
+    "Pulitzer Prize and Finalists, 1990-2003":1,
+    "Pulitzer Prize and Finalists, 2004-2013":1,
+    "Pulitzer Prize and Finalists, 1990-2014":1
+  },
+  {
+    "Newspaper":"Iraq Today",
+    "Daily Circulation,2004":2192,
+    "Daily Circulation,2013":1674,
+    "Change in Daily Circulation , 2004-2013 ":-24,
+    "Pulitzer Prize and Finalists, 1990-2003":1,
+    "Pulitzer Prize and Finalists, 2004-2013":1,
+    "Pulitzer Prize and Finalists, 1990-2014":1
+  }
+]
