@@ -17,6 +17,7 @@ function circulationRepo() {
         reject(error) 
       }
     })
+    console.log('github test');
   }
 
   return { loadData }
